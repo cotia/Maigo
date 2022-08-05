@@ -1,0 +1,2 @@
+# Maigo
+PaperMC Maigo Plugin

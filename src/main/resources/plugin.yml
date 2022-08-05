@@ -1,0 +1,4 @@
+name: MaigoPlugin
+version: '${project.version}'
+main: net.encha.maigo.MaigoPlugin
+api-version: 1.19
